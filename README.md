@@ -16,6 +16,7 @@ Supports de présentation au format PDF :
 - `atelier-faux-documents.pdf` : Support de formation à la détection de faux documents (fiches de paie)
 - `experience-faux-dossier.pdf` : Présentation de l'expérience du faux dossier test (séminaire DossierFacile)
 - `sensibilisation-iban.pdf` : Document de sensibilisation aux risques liés à l'exposition des IBAN
+- `documentation-technique-bot-rag.pdf` : Documentation technique du bot RAG (architecture, outils utilisés) — rédigée pour assurer la pérennité du projet
 
 ### 📁 code-source/
 - `deeply/` : Code source complet de l'application mobile Deeply (Flutter/Dart), déployée sur iOS et Android
