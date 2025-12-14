@@ -1,0 +1,42 @@
+{
+    "title": "Deeply En",
+    "choose_language": "Choose Language",
+    "type_answer": "Type Answer",
+    "url_launcher_text": "Join us on Instagram for inspiring testimonials and other highlights !",
+    "game_selection": {
+        "title-1": " \"Dive into the heart of oneself and discover others.\" ",
+        "sub_title-1": "Introspection",
+        "description-1": " \"Explore your inner universe by answering introspective questions to better understand yourself and follow your personal evolution.\" ",
+        "title-2": " \"Dive into the heart of oneself and discover others.\" ",
+        "sub_title-2": "Couple",
+        "description-2": " \"Deepen your relationship by discussing intimate topics about life as a couple, such as sexuality, complicity, and trust.\" ",
+        "title-3": " \"Dive into the heart of oneself and discover others.\" ",
+        "sub_title-3": "General",
+        "description-3": "\"Share quality moments with your loved ones by discussing a variety of questions to develop mutual understanding and strengthen your bonds.\"",
+        "title-4": " \"Dive into the heart of oneself and discover others.\" ",
+        "sub_title-4": "Debate",
+        "description-4": "\"Be stimulated through exciting discussions on controversial questions, exploring politics, philosophy and more with your loved ones.\""
+    },
+    "button": {
+        "continue": "Continue",
+        "discover": "Discover",
+        "play": "Play",
+        "archives": "Archives",
+        "date": "Date",
+        "questions": "Questions",
+        "next_question": "Next Question",
+        "answer": "Save"
+    },
+    "question": {
+        "question-1": "To what extent does the opinion of strangers affect you ? and how could you free yourself from it ?"
+    },
+    "archive": {
+        "empty": "No answers saved !"
+    },
+    "confirmation": {
+        "title": "Confirm Deletion",
+        "message": "Are you sure you want to delete this answer ? This action cannot be undone.",
+        "cancel": "Cancel",
+        "delete": "Delete"
+      }
+}

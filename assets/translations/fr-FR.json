@@ -1,0 +1,43 @@
+{
+    "title": "Deeply Fr",
+    "choose_language": "Choisissez la langue",
+    "type_answer": "Tapez la réponse",
+    "url_launcher_text": "Rejoins-nous sur Instagram pour des témoignages inspirants et autres moments forts !",
+    "game_selection": {
+        "title-1": " \"Plonger au coeur de soi et découvrir les autres.\" ",
+        "sub_title-1": "Introspection",
+        "description-1": " \"Explorez votre univers intérieur en répondant à des questions introspectives pour mieux vous connaître et suivre votre évolution personnelle.\" ",
+        "title-2": " \"Plonger au cœur de soi et découvrir les autres.\" ",
+        "sub_title-2": "Couple",
+        "description-2": " \"Approfondissez votre relation de couple en abordant des sujets intimes sur la vie à deux, la sexualité, la complicité et la confiance.\" ",
+        "title-3": " \"Plonger au coeur de soi et découvrir les autres.\" ",
+        "sub_title-3": "Général",
+        "description-3": "\"Partagez des moments de qualité avec vos proches en discutant autour de questions variées pour développer une compréhension mutuelle et renforcer vos liens.\"",
+        "title-4": " \"Plonger au coeur de soi et découvrir les autres.\" ",
+        "sub_title-4": "Débat",
+        "description-4": "\"Soyez stimulés par des discussions passionnantes autour de questions controversées, explorant la politique, des questions sociétales et la philosophie avec vos proches.\""
+    },
+    "button": {
+        "continue": "Continuer",
+        "discover": "Découvrir",
+        "play": "Jouer",
+        "archives": "Archives",
+        "date": "Date",
+        "questions": "Questions",
+        "next_question": "Question Suivante",
+        "answer": "Sauvegarder"
+
+    },
+    "question": {
+        "question-1": "Dans quelle mesure l’opinion des inconnus vous affecte-t-elle ? Comment pourriez-vous vous en libérer ?"
+    },
+    "archive": {
+        "empty": "Aucune réponse enregistrée !"
+    },
+    "confirmation": {
+        "title": "Confirmer la suppression",
+        "message": "Voulez-vous vraiment supprimer cette réponse ? Cette action est irréversible.",
+        "cancel": "Annuler",
+        "delete": "Supprimer"
+      }
+}
